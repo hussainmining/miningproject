@@ -356,7 +356,7 @@ def test(net,device):
     torch.save(net,'SimpleModel') 
     pass
 
-#C:/Users/Mrudula/.spyder-py3            
+#C:/Users/Mining/mining           
 #####################################################################################
     
 def main():
